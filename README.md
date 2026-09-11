@@ -1,31 +1,34 @@
-Introdução à Programação com Portugol Studio
-Curso de Pensamento Computacional
+introducao-logica-programacao
+Introdução à Programação com Portugol
+Projeto desenvolvido para a disciplina de Pensamento Computacional.
 
-Sobre o curso
-Curso introdutório de lógica de programação utilizando Portugol Studio. O objetivo é apresentar os conceitos fundamentais de programação para estudantes iniciantes.
+Objetivo
+Apresentar conceitos básicos de programação utilizando Portugol.
 
-Conteúdos abordados
-Algoritmos e lógica de programação
-Variáveis e tipos de dados
-Entrada e saída de informações
-Operadores matemáticos, relacionais e lógicos
+Conteúdos:
+
+Algoritmos
+Lógica de programação
+Variáveis
+Entrada e saída
+Operadores
 Estruturas condicionais
-Estruturas de repetição
-Funções e procedimentos
-Videoaulas
-🎥 Aula geral
+Repetições
+Funções
+Materiais
+O projeto contém:
 
-https://www.youtube.com/watch?v=aSYvr0r5jQECOLE AQUI O LINK DO VÍDEO
-
-🎥 Apresentação final do curso
-
-COLE AQUI O LINK DO VÍDEO
-
-Materiais do curso
-Documento de apoio
-Lista de exercícios
-Relatórios do projeto
+Videoaula geral;
+Slides;
+Documento de apoio;
+Lista de exercícios;
+Projeto integrador.
 Projeto Final
-Sistema simples de controle de notas e frequência utilizando lógica de programação.
+Sistema simples de controle de notas e frequência.
 
-Introdução à Programação com Portugol Studio
+Funcionalidades:
+
+Cadastro de estudante;
+Entrada de notas;
+Cálculo da média;
+Verificação da situação acadêmica.
